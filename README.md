@@ -35,7 +35,7 @@
 
 <details>
   <summary><h3>About ImKerty</h3></summary>
-  Ciao questo è un test
+  Ciao non so che scrivere
 </details>
 
 </body>
