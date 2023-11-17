@@ -25,7 +25,9 @@
 <img align="left" alt="javascript" width="60px" style="padding=right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="blender" width="60px" style="padding=right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"/>
 <img align="left" alt="unity" width="60px" style="padding=right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
+
 <br>
+
 ---
 
 ### About
