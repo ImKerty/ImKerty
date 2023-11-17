@@ -28,8 +28,9 @@
 
 <br/>
 
----
-### About
+# 
+
+About
 
 Sono uno Studente presso l'istituto 
 
