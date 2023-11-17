@@ -1,3 +1,7 @@
+<html>
+
 # 👨🏽‍💻 ImKerty ✔
 
-**′Studente (Developer/Videogamer/VFX Creator)′**
+**Studente (Developer/Videogamer/VFX Creator)**
+
+</html>
