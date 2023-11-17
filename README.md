@@ -3,4 +3,6 @@
 
 **Studente (Developer/Videogamer/VFX Creator)**
 
+---
+
 ### Linguaggi
