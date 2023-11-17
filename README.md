@@ -29,8 +29,8 @@
 <img align="left" alt="photoshop" width="50px" style="padding=right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
 <img align="left" alt="premierepro" width="50px" style="padding=right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg"/>
 <img align="left" alt="aftereffects" width="50px" style="padding=right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"/>
-<br>
-#
+<br/>
+
 <br/>
 <details>
   <summary><h3>About ImKerty</h3></summary>
